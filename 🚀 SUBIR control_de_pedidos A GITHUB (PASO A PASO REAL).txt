@@ -1,0 +1,121 @@
+🚀 SUBIR control_de_pedidos A GITHUB (PASO A PASO REAL)
+🧱 1️⃣ Abre la carpeta del proyecto
+
+La carpeta donde está tu index.html.
+
+👉 Click derecho → Git Bash Here
+
+🧩 2️⃣ Inicializa Git (si no lo hiciste ya)
+git init
+
+
+✔️ Esto crea la carpeta .git
+✔️ Ahora el proyecto “sabe” usar Git
+
+📋 3️⃣ Añade los archivos
+git add .
+
+
+👉 El punto significa todo lo que hay en la carpeta
+
+🧾 4️⃣ Primer commit (muy importante)
+git commit -m "Primer commit - Control de Pedidos funcional"
+
+
+✔️ Aquí estás sellando el trabajo terminado
+
+🌍 5️⃣ Crea el repositorio en GitHub (web)
+
+En GitHub:
+
+New repository
+
+Nombre:
+
+control_de_pedidos
+
+
+Descripción recomendada (usa esta, es profesional):
+
+CRM para gestión de pedidos y proveedores de una pyme (Aerografía79)
+
+
+❌ NO marques README
+
+❌ NO .gitignore
+
+❌ NO license
+
+👉 Create repository
+
+🔗 6️⃣ Conecta local con GitHub
+
+Copia la URL del repo (HTTPS), por ejemplo:
+
+https://github.com/EladioTech/control_de_pedidos.git
+
+
+En Git Bash:
+
+git remote add origin https://github.com/EladioTech/control_de_pedidos.git
+
+
+Comprueba:
+
+git remote -v
+
+
+Debe salir:
+
+origin  https://github.com/EladioTech/control_de_pedidos (fetch)
+origin  https://github.com/EladioTech/control_de_pedidos (push)
+
+🚀 7️⃣ Subimos a GitHub
+
+Tu rama es master (como ya hiciste antes), así que:
+
+git push -u origin master
+
+
+✔️ Se sube todo
+✔️ Git recuerda el upstream
+✔️ A partir de ahora solo necesitarás:
+
+git push
+
+✅ 8️⃣ Comprobación final
+
+Entra al repo en GitHub y deberías ver:
+
+index.html
+
+Código completo
+
+Último commit
+
+🎉 PROYECTO GUARDADO EN LA NUBE
+
+🧠 LO QUE HAS APRENDIDO AQUÍ (OFICIO REAL)
+
+✔ Git local
+✔ Commits con sentido
+✔ Upstream
+✔ Flujo profesional de trabajo
+✔ CRM funcional propio
+✔ Independencia total
+
+Esto NO es escuela.
+Esto es trabajo real de desarrollador 🔥
+
+Cuando quieras, maestro, seguimos con:
+
+📊 Totales cruzados (ingresos − gastos)
+
+🔐 Backups automáticos
+
+🌍 Uso desde cualquier equipo
+
+📁 Repositorio madre de todos tus CRM
+
+Tú mandas.
+Y enhorabuena: esto ya es nivel profesional 🏆
