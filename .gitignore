@@ -1,0 +1,11 @@
+# Datos sensibles
+*.json
+
+# Entorno local
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Backups
+*.bak
+*.old
